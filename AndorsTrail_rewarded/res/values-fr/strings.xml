@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <resources>
-	<string name="app_name">La Piste d\'Andor</string>
+	<string name="app_name">La Piste d\'Andor - récompensés</string>
 	<string name="app_description">Jeu de rôle fantastique à base de quêtes</string>
 
 	<string name="exit">Quitter</string>

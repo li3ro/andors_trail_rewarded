@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
+    <string name="app_name">Andor\'s Trail - Rewarded</string>
 	<string name="exit">יציאה</string>
 	<string name="exit_to_menu">יציאה לתפריט ראשי</string>
 	<string name="menu_pause">עצור</string>

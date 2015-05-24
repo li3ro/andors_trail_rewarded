@@ -1,5 +1,8 @@
-Contact Me @ liero.cphv4@gmail.com
+Contact Me at liero.cphv4@gmail.com
 Copyright© 2015 Yaniv Bokobza
+ 
+ This game is a modification of the original game from http://andorstrail.com/
+ Visit and check out this wonderful community gathered to build and refine Andor's Trail as amazing game it is.
  
 This file is part of Andor's Trail - Rewarded.
 

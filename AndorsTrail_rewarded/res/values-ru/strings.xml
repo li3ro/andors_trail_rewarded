@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-	<string name="app_name">След Эндора</string>
+	<string name="app_name">След Эндора - вознаграждены</string>
 	<string name="app_description">Квестово-фэнтезийная RPG</string>
 
 	<string name="exit">Выйти</string>

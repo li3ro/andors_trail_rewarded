@@ -30,12 +30,12 @@
 		android:layout_toLeftOf="@id/toolbox_toggle"
 		android:orientation="vertical"
 		>
-		<com.gpl.rpg.AndorsTrail.view.RangeBar
+		<com.wee.boo.AndorsTrail.Rewarded.view.RangeBar
 			android:id="@+id/statusview_health"
 			android:layout_width="match_parent"
 			android:layout_height="wrap_content"
 			/>
-		<com.gpl.rpg.AndorsTrail.view.RangeBar
+		<com.wee.boo.AndorsTrail.Rewarded.view.RangeBar
 			android:id="@+id/statusview_exp"
 			android:layout_width="match_parent"
 			android:layout_height="wrap_content"

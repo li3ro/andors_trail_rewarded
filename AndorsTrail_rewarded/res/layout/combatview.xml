@@ -78,7 +78,7 @@
 			android:contentDescription="@string/dialog_monsterencounter_info"
 			/>
 
-		<com.gpl.rpg.AndorsTrail.view.RangeBar
+		<com.wee.boo.AndorsTrail.Rewarded.view.RangeBar
 			android:id="@+id/combatview_monsterhealth"
 			android:layout_width="match_parent"
 			android:layout_height="wrap_content"

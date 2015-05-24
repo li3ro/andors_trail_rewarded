@@ -44,12 +44,12 @@
 				</TableRow>
 			</TableLayout>
 
-			<com.gpl.rpg.AndorsTrail.view.RangeBar
+			<com.wee.boo.AndorsTrail.Rewarded.view.RangeBar
 				android:id="@+id/heroinfo_healthbar"
 				android:layout_width="match_parent"
 				android:layout_height="wrap_content" />
 
-			<com.gpl.rpg.AndorsTrail.view.RangeBar
+			<com.wee.boo.AndorsTrail.Rewarded.view.RangeBar
 				android:id="@+id/heroinfo_expbar"
 				android:layout_width="match_parent"
 				android:layout_height="wrap_content"
@@ -87,7 +87,7 @@
 				<include layout="@layout/traitsinfoview" />
 			</TableLayout>
 
-			<com.gpl.rpg.AndorsTrail.view.ItemEffectsView
+			<com.wee.boo.AndorsTrail.Rewarded.view.ItemEffectsView
 				android:id="@+id/actorinfo_onhiteffects"
 				android:layout_width="match_parent"
 				android:layout_height="wrap_content"
@@ -100,7 +100,7 @@
 				android:id="@+id/actorinfo_currentconditions_title"
 				style="@style/actorinfo_sectionheader"
 				/>
-			<com.gpl.rpg.AndorsTrail.view.ActorConditionList
+			<com.wee.boo.AndorsTrail.Rewarded.view.ActorConditionList
 				android:id="@+id/actorinfo_currentconditions"
 				android:layout_width="match_parent"
 				android:layout_height="wrap_content"

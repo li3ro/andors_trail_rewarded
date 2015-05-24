@@ -59,7 +59,7 @@
 					/>
 			</LinearLayout>
 
-			<com.gpl.rpg.AndorsTrail.view.ItemEffectsView
+			<com.wee.boo.AndorsTrail.Rewarded.view.ItemEffectsView
 				android:id="@+id/iteminfo_effects"
 				android:layout_width="match_parent"
 				android:layout_height="wrap_content"
